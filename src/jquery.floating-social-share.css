@@ -17,12 +17,12 @@
   display: list-item;
   list-style-type: none;
   text-align: center;
-  color: #FFFFFF;
+  color: #ffffff;
   outline: 0 none !important;
 }
 #floatingSocialShare a:focus,
 #floatingSocialShare a:hover {
-  color: #FFFFFF;
+  color: #ffffff;
   width: 52px;
   opacity: 0.8;
   transition-duration: 0.3s;
@@ -36,7 +36,7 @@
   outline: 0 none !important;
 }
 #floatingSocialShare svg {
-  fill: #FFFFFF;
+  fill: #ffffff;
   height: 30px;
 }
 #floatingSocialShare a.without-counter svg {
@@ -60,7 +60,7 @@
   right: 0;
   left: 0;
   margin: auto;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 10px;
 }
 #floatingSocialShare .top-left,
@@ -86,43 +86,46 @@
   margin: 0;
 }
 #floatingSocialShare .mail {
-  background-color: #D14836;
+  background-color: #d14836;
 }
 #floatingSocialShare .facebook {
-  background-color: #3B5998;
+  background-color: #3b5998;
 }
 #floatingSocialShare .google-plus {
-  background-color: #DC4E41;
+  background-color: #dc4e41;
 }
 #floatingSocialShare .linkedin {
-  background-color: #0077B5;
+  background-color: #0077b5;
 }
 #floatingSocialShare .odnoklassniki {
-  background-color: #F4731C;
+  background-color: #f4731c;
 }
 #floatingSocialShare .pinterest {
-  background-color: #BD081C;
+  background-color: #bd081c;
 }
 #floatingSocialShare .reddit {
-  background-color: #FF4500;
+  background-color: #ff4500;
 }
 #floatingSocialShare .stumbleupon {
-  background-color: #EB4924;
+  background-color: #eb4924;
 }
 #floatingSocialShare .telegram {
-  background-color: #2CA5E0;
+  background-color: #2ca5e0;
 }
 #floatingSocialShare .tumblr {
-  background-color: #36465D;
+  background-color: #36465d;
 }
 #floatingSocialShare .twitter {
-  background-color: #1DA1F2;
+  background-color: #1da1f2;
 }
 #floatingSocialShare .vk {
-  background-color: #6383A8;
+  background-color: #6383a8;
 }
 #floatingSocialShare .whatsapp {
-  background-color: #00E676;
+  background-color: #00e676;
+}
+#floatingSocialShare .sms {
+  background-color: #ffbc38;
 }
 @media only screen and (max-width: 961px) {
   #floatingSocialShare {
